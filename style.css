@@ -15,17 +15,27 @@ body .recipe {
     text-align: left;
 }
 
+img {
+    margin: 0px auto;
+    width: 700px;
+    height: auto;
+}
+
 li {
-    padding: 3px;
+    margin: 3px;
 }
 
 a {
-    padding-left: 10px;
-    padding-right: 10px;
+    margin: 0px 5px;
 }
 
 #garfield {
-    padding-top: 20px;
+    margin-top: 20px;
     width: 200px;
+    height: auto;
+}
+
+#italian-chef-gif {
+    width: 500px;
     height: auto;
 }
